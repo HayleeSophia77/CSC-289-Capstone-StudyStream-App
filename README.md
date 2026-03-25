@@ -1,5 +1,3 @@
-# CSC-289-Capstone-StudyStream-App
-
 ## StudyStream – Student Task Management System
 
 StudyStream is a task management system built for college students who are juggling way too much at once.
